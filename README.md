@@ -21,3 +21,5 @@ Contact Information:
 Any Additional Questions Please Contact:
 
 elias.gregory.w@gmail.com
+
+*Note*: This project was made in 2014/2016; it was my first large coding project.
