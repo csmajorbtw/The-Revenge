@@ -16,10 +16,10 @@ clicking on them instead might break the game.
 
 ~That's about it
 
-Contact Information:
-
 Any Additional Questions Please Contact:
 
 elias.gregory.w@gmail.com
 
-*Note*: This project was made in 2014/2016; it was my first large coding project.
+**Note**: This project was made in 2014/2016; it was my first large coding project. Also there are two music files that are too large for me to upload to GitHub, particularly for _House_ and _Goodbye_ folders in _GAMEINFO_. Contact me in the email listed above if you want these files.
+
+Thank you!
